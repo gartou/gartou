@@ -12,6 +12,6 @@ Technologies I currently enjoy working with include Vue.JS, JavaScript (Node.JS)
 ✨Always feel **S.P.E.C.I.A.L.** ✨
 
 - 🔭 I’m currently working on my [portfolio](https://github.com/gartou/portfolio), it's in super pre-Alpha state
-- 🏫 I’m currently learning @Óbudai University at Hungary
-~~- 📖 I’m currently started to learn electronics so I can build some awesome circuit, and code the microchips~~
+- 🏫 I’m currently learning @Óbudai University at Hungary  
+- ~~📖 I’m currently started to learn electronics so I can build some awesome circuit, and code the microchips~~
 - 💡 Current [Ideas](https://github.com/gartou/ProjectIdeas)
